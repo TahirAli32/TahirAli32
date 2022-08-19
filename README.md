@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I am Muhammad Tahir Ali <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br>
 
-Hi, I'm Muhammad Tahir Ali, an undergradute Computer Science student [@UBIT](https://uok.edu.pk/faculties/computerscience/index.php). I am MERN Stack Developer currently enrolled in <b>Web and Mobile App Developement</b> [@SMIT](https://www.facebook.com/SaylaniMassTraining/)
+Hi, I'm Muhammad Tahir Ali, an undergradute Computer Science student [@UBIT](https://uok.edu.pk/faculties/computerscience/index.php). I am MERN Stack Developer currently enrolled in <b>Web and Mobile App Development Course</b> [@SMIT](https://www.facebook.com/SaylaniMassTraining/)
 <br>
 <br>
 

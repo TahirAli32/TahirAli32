@@ -25,10 +25,10 @@ Hi, I'm Muhammad Tahir Ali, an undergradute Computer Science student [@UBIT](htt
 <br>
 <br>
 
-[<img align="left" style="margin: 0 5px;" alt="Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logoColor=white" />][portfolio]
-[<img align="left" style="margin: 0 5px;" alt="Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Stackoverflow-F48225?style=for-the-badge&logo=Stackoverflow&logoColor=white" />][stackoverflow]
-[<img align="left" style="margin: 0 5px;" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
-[<img align="left" style="margin: 0 5px;" alt="Email" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />][gmail]
+[<img align="left" style="margin: 5px;" alt="Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logoColor=white" />][portfolio]
+[<img align="left" style="margin: 5px;" alt="Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Stackoverflow-F48225?style=for-the-badge&logo=Stackoverflow&logoColor=white" />][stackoverflow]
+[<img align="left" style="margin: 5px;" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
+[<img align="left" style="margin: 5px;" alt="Email" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />][gmail]
 <br />
 
 [portfolio]: https://tahirali-dc.netlify.app/

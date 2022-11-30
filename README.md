@@ -44,3 +44,8 @@ Hi, I'm Muhammad Tahir Ali, an undergradute Computer Science student [@UBIT](htt
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zeeshan3534/count.svg" />
 </p>
+<br />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tahirali32/count.svg" />
+</p>

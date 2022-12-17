@@ -17,8 +17,9 @@ Hi, I'm Muhammad Tahir Ali, an undergradute Computer Science student [@UBIT](htt
 <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://console.firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-
+  
 </p>
   
 <br>

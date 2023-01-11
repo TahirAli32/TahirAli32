@@ -23,8 +23,6 @@ Hi, I'm Muhammad Tahir Ali, an undergradute Computer Science student [@UBIT](htt
 </p>
 
 <br>
-<br>
-
 ## Most Used Languages
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TahirAli32&theme=blue-green)

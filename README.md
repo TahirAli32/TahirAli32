@@ -21,6 +21,11 @@ Hi, I'm Muhammad Tahir Ali, an undergradute Computer Science student [@UBIT](htt
 <a href="https://console.firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   
 </p>
+
+<br>
+<br>
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TahirAli32&theme=blue-green)
+
   
 <br>
 <br>

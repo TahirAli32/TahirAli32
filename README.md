@@ -1,53 +1,95 @@
-<h2 align="center">Hi, I am Muhammad Tahir Ali <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<br>
+<h2 align="center">
+  Hi, I’m Muhammad Tahir Ali 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h2>
 
-Hi, I'm Muhammad Tahir Ali, an undergradute Computer Science student [@UBIT](https://uok.edu.pk/faculties/computerscience/index.php). I am MERN Stack Developer currently enrolled in <b>Web and Mobile App Development Course</b> [@SMIT](https://www.facebook.com/SaylaniMassTraining/)
-<br>
-<br>
-
-💻 Technologies, I am working on:
-<br><br>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://console.firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  
+<p align="center">
+  🚀 Full-Stack Software Engineer | Backend-Focused (NestJS & Node.js)
 </p>
 
-<br>
+---
 
-## Most Used Languages
+### 👨‍💻 About Me
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TahirAli32&theme=blue-green)
-  
-<br>
-<br>
-🌐 Connect with ME
-<br>
-<br>
+Hi, I’m **Muhammad Tahir Ali**, a **Computer Science graduate from UBIT – University of Karachi** 🎓  
+I have **2+ years of professional experience** building scalable **web, mobile, and real-time systems**.
 
-[<img align="left" style="margin: 5px;" alt="Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logoColor=white" />][portfolio]
-[<img align="left" style="margin: 5px;" alt="Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Stackoverflow-F48225?style=for-the-badge&logo=Stackoverflow&logoColor=white" />][stackoverflow]
-[<img align="left" style="margin: 5px;" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
-[<img align="left" style="margin: 5px;" alt="Email" height="30px" width="100px" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />][gmail]
-<br />
+- 🔹 Strong focus on **Backend Engineering (Node.js, NestJS)**
+- 🔹 Experienced with **REST APIs, real-time systems, payment gateways**
+- 🔹 Comfortable across **Web, Mobile, and Desktop (Electron.js)**
+- 🔹 Currently exploring **high-performance systems & Rust**
+
+---
+
+### 🧠 Tech Stack & Tools
+
+#### 🌐 Frontend
+<p align="left">
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
+  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></a>
+  <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/></a>
+  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/></a>
+</p>
+
+#### ⚙️ Backend
+<p align="left">
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
+  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
+</p>
+
+#### 🗄 Databases & Caching
+<p align="left">
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
+  <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/></a>
+</p>
+
+#### 📱 Mobile & Desktop
+<p align="left">
+  <a href="https://reactnative.dev/"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="40"/></a>
+  <a href="https://www.electronjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/></a>
+</p>
+
+#### 🔌 Realtime, Cloud & Payments
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="40"/></a>
+</p>
+
+#### 🧪 Other Skills
+- ✅ TypeScript (Advanced)
+- ✅ TypeORM / Prisma
+- ✅ Auth (JWT, OAuth)
+- ✅ Stripe, NMI, CardConnect
+- ✅ Socket.IO, WebSockets
+- ✅ Firebase
+- ✅ Rust (Learning – High performance servers)
+
+---
+
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahirAli32&layout=compact&theme=blue-green)
+
+---
+
+### 🌐 Connect With Me
+
+[<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge" />][portfolio]
+[<img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" />][stackoverflow]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tahirali32.visitor-badge" />
+</p>
 
 [portfolio]: https://tahirali-dc.netlify.app/
 [stackoverflow]: https://stackoverflow.com/users/14988695/muhammad-tahir-ali
 [linkedin]: https://linkedin.com/in/tahirali32
 [gmail]: mailto:tahiralidc@gmail.com
-
-<br />
-<br />
-<p align="center"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tahirali32.visitor-badge" />
-</p>
-<br />

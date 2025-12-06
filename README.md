@@ -34,7 +34,7 @@ I have **2+ years of professional experience** building scalable **web, mobile, 
 #### ⚙️ Backend
 <p align="left">
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
-  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/></a>
+  <a href="https://nestjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="40"/></a>
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
 </p>
 
@@ -52,11 +52,10 @@ I have **2+ years of professional experience** building scalable **web, mobile, 
   <a href="https://www.electronjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/></a>
 </p>
 
-#### 🔌 Realtime, Cloud & Payments
+#### 🔌DevOps
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="40"/></a>
 </p>
 
 #### 🧪 Other Skills
@@ -70,12 +69,6 @@ I have **2+ years of professional experience** building scalable **web, mobile, 
 
 ---
 
-### 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahirAli32&layout=compact&theme=blue-green)
-
----
-
 ### 🌐 Connect With Me
 
 [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge" />][portfolio]
@@ -84,10 +77,6 @@ I have **2+ years of professional experience** building scalable **web, mobile, 
 [<img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tahirali32.visitor-badge" />
-</p>
 
 [portfolio]: https://tahirali-dc.netlify.app/
 [stackoverflow]: https://stackoverflow.com/users/14988695/muhammad-tahir-ali

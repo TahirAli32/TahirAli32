@@ -54,18 +54,8 @@ I have **2+ years of professional experience** building scalable **web, mobile, 
 
 #### 🔌DevOps
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
 </p>
-
-#### 🧪 Other Skills
-- ✅ TypeScript (Advanced)
-- ✅ TypeORM / Prisma
-- ✅ Auth (JWT, OAuth)
-- ✅ Stripe, NMI, CardConnect
-- ✅ Socket.IO, WebSockets
-- ✅ Firebase
-- ✅ Rust (Learning – High performance servers)
 
 ---
 

@@ -1,16 +1,18 @@
 <h2 align="center">
   Hi, I’m Muhammad Tahir Ali 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-<br/>
-  [![Profile Views](https://komarev.com/ghpvc/?username=DevOwaisAli&label=Profile+Views&color=3B82F6&style=flat)](https://github.com/DevOwaisAli)
 </h2>
 
 <p align="center">
   🚀 Full-Stack Software Engineer | Backend-Focused (NestJS & Node.js)
 </p>
 
----
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=tahiralid32&label=Profile+Views&color=3B82F6&style=flat)](https://github.com/DevOwaisAli)
+
+</div>
+
 
 ### 👨‍💻 About Me
 
@@ -60,10 +62,15 @@ I have **2+ years of professional experience** building scalable **web, mobile, 
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
 </p>
 
+
 ---
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahirali32&theme=github-compact&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
+
+<img height="180em" src="https://github-readme-stats-dun-nine-10.vercel.app/api?username=tahirali32&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+
+
+
 </div>
 
 ---

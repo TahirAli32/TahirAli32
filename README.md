@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 Hi, I’m **Muhammad Tahir Ali**, a **Computer Science graduate from UBIT – University of Karachi** 🎓  
-I have **2+ years of professional experience** building scalable **web, mobile, and real-time systems**.
+I have **3+ years of professional experience** building scalable **web, mobile, and real-time systems**.
 
 - 🔹 Strong focus on **Backend Engineering (Node.js, NestJS)**
 - 🔹 Experienced with **REST APIs, real-time systems, payment gateways**

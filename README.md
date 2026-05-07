@@ -1,6 +1,9 @@
 <h2 align="center">
   Hi, I’m Muhammad Tahir Ali 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+<br/>
+  [![Profile Views](https://komarev.com/ghpvc/?username=DevOwaisAli&label=Profile+Views&color=3B82F6&style=flat)](https://github.com/DevOwaisAli)
 </h2>
 
 <p align="center">
@@ -56,6 +59,12 @@ I have **2+ years of professional experience** building scalable **web, mobile, 
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
 </p>
+
+---
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahirali32&theme=github-compact&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
+</div>
 
 ---
 
